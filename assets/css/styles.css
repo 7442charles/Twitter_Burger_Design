@@ -1,0 +1,50 @@
+body {
+    background-image: url(/assets/images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .navbar-brand img {
+    height: 70px;
+    width: 50px; 
+  }
+  .nav-item{
+      font-size: 1rem;
+      font-weight: 700;
+  }
+  
+  .navbar-nav .nav-link {
+    padding: 10px 10px;
+  }
+  .login-btn, .signup-btn {
+    padding:  10px; 
+    border-radius: 20px; 
+    width: 100px;
+    text-align: center; 
+  }
+  .login-btn {
+    background-color: #581803;
+    color: white;
+    margin-right: 15px;
+    border: 2px solid #581803;
+  }
+  .signup-btn {
+      border: 2px solid #581803;
+  }
+  .hero-section {
+    padding: 50px 0;
+  }
+  .hero-text-enjoy {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .btn-primary-custom {
+    background-color: #581803;
+    border: none;
+  }
+  .btn-outline-custom {
+    border: 2px solid #581803;
+    color: #581803;
+  }
+  
